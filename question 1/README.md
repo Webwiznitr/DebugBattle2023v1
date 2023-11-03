@@ -1,12 +1,7 @@
 # Question 1
 
-## The Tale of John
+<img src="https://github.com/Webwiznitr/DebugBattle2023v1/assets/96954448/3780fa97-a7e4-4f48-9699-a0daf1bdb5e3" width=500 />
+<br/>
+<img src="https://github.com/Webwiznitr/DebugBattle2023v1/assets/96954448/60459fe8-9594-44e2-910c-9b261c64ca7e" width=500 />
 
-Once upon a time, there was a web developer named **John** who was tasked with creating a simple HTML form. But John was a man who loved colors in life. The form needed to have colored fields to make it visually appealing. Can you help John by providing the code to create this form?
 
-### Instructions:
-
-- The folder containes starter code to begin your solution.
-- Create a form but make sure that it asks for 5 fields : Name, Email, Birthday, Mobile Number, Favorite Color
-- The form doesn't need to have an submit action.
-- The fields should have alternating green, yellow background color. |Name: Green, Email:Yellow...|
