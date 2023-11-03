@@ -1,0 +1,61 @@
+/* Write Your CSS Here */
+
+/* Do not change these lines */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #880000; /* Dark red background color for the navbar */
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+
+.footer {
+  background-color: #440000; /* Dark red background color for the footer */
+  overflow: hidden;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  position: fixed;
+  width: 100vw;
+  bottom: 0;
+}
+
+.footer a {
+  color: #ff6666; /* Light red text color for links in the footer */
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #ff6666; /* Light red text color for links in the navbar */
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #ff3333; /* Light red background color for links on hover */
+  color: #880000; /* Dark red text color for links on hover */
+}
+
+.hero {
+  background-color: #ffcccc; /* Light red background color for the hero section */
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.hero h1 {
+  font-size: 36px;
+  color: #f97171; /* Dark red text color for the hero section */
+}
+
+/* Add new lines below this point */
