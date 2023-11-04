@@ -1,2 +1,40 @@
-
 /* Write Your CSS Here */
+
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about, .contact{
+    background-color: antiquewhite;
+    margin: 4vw 2vw;
+    height: 25vw;
+    width: 250px;
+    padding: 4vw;
+    text-align: center;
+}
+
+.midsection{
+    background-color: #eccce5;
+    width: 480px;
+    height: 33vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.row1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.square{
+    text-align: center;
+    height: 250px;
+    width: 350px;
+    border: 1px solid #23060b;
+    margin: 0vw;
+}
