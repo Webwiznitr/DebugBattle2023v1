@@ -1,3 +1,3 @@
 # Question 3
 
-<img src="https://github.com/Webwiznitr/DebugBattle2023v1/assets/96954448/3d4449ab-1bf9-4300-be96-a9c8edbc6f17" width=500 />
+![image](https://github.com/Webwiznitr/DebugBattle2023v1/assets/75237697/3c9d024f-8bbd-478c-8f0e-42ca7369cb50)
