@@ -1,8 +1,9 @@
 # Question 2
 
-<img src="https://github.com/Webwiznitr/DebugBattle2023v1/assets/96954448/212d015a-0400-4ceb-906c-60bd4015a4cf" width=500 />
+<img src="https://github.com/Webwiznitr/DebugBattle2023v1/assets/96954448/c64aa06d-3082-4023-bb60-145c991f5264" width=500 />
 <br/>
-<img src="https://github.com/Webwiznitr/DebugBattle2023v1/assets/96954448/c821b40e-9ece-4fdd-8e41-d322ed2ab409" width=500 />
+<img src="https://github.com/Webwiznitr/DebugBattle2023v1/assets/96954448/1fbbcaca-fb14-4ecd-8b9d-6d80acf7c004" width=500 />
+
 
 
 
